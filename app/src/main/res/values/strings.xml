@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado01</string>
+        <string name="formulario">Formulario</string>
+        <string name="nombre">Nombre: "José Alonso"</string>
+        <string name="apellido">Apellido: "Santisteban Ninahuanca"</string>
+        <string name="correo">Correo: "jose.santisteban@tecsup.edu.pe"</string>
+        <string name="registrar">Registrar</string>
+</resources>
